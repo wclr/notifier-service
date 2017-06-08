@@ -1,6 +1,6 @@
 {
-  "name": "notifyer-service",
-  "version": "1.0.0-pre.0",
+  "name": "notifier-service",
+  "version": "1.0.0-pre.1",
   "main": "index.js",
   "license": "MIT",
   "bin": {
